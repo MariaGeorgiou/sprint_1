@@ -1,6 +1,6 @@
-#Big Heading
+# Big Heading
 
-##Smaller heading
+## Smaller heading
 
 paragraph
 

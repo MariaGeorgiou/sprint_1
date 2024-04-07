@@ -1,7 +1,11 @@
-# Big Heading
+# Software Engineering and Reproducible Research
 
-## Smaller heading
+## What is in this project
 
-paragraph
+Use the Command Line to manage files and folders
+Create Python Packages
+Work from a Virtual Environment
+Write Object Oriented Python Code
+Use Containers to make work 100% reproducible
+Write tests for Python code. 
 
-[link to Google](http://google.com)
